@@ -1,0 +1,23 @@
+name: Ben Sanders
+favicon: null
+layout_spectrum: 0.5765920558478683
+typography_spectrum: 0.6022992513608187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4200134393759072
+  lightness: 0.2656496453564614
+  saturation: 0.7721452570986003
+  rhythmicContrast: 0.5778143357019871
+purpose: []
