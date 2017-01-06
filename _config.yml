@@ -1,20 +1,4 @@
-name: Ben Sanders
-favicon: null
-layout_spectrum: 0.5765920558478683
 typography_spectrum: 0.6022992513608187
-title: 'Explorer | Engineer | Entrepreneur'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ff6800'
@@ -26,4 +10,25 @@ color:
   lightness: 0.2656496453564614
   saturation: 0.7721452570986003
   rhythmicContrast: 0.5778143357019871
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5765920558478683
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Ben Sanders
+  email: ben@bensanders.ca
+name: Ben Sanders
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Explorer | Engineer | Entrepreneur
+content: []
 purpose: []
